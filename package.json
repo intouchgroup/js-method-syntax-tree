@@ -1,0 +1,27 @@
+{
+	"name": "@intouchgroup/js-method-syntax-tree",
+	"version": "2.0.0",
+	"description": "CLI to generate a syntax tree for JavaScript methods",
+	"main": "cli.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"js-method-syntax-tree": "cli.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/intouchgroup/js-method-syntax-tree.git"
+	},
+	"keywords": [
+		"syntax tree",
+		"usage",
+		"audit",
+		"library",
+		"crawl",
+		"node",
+		"tree"
+	],
+	"author": "Intouch Group",
+	"license": "MIT"
+}
